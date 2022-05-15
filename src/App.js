@@ -11,8 +11,8 @@ import Contact from './component/Contact';
 import Company from './component/Company';
 import Channel from './component/Channel';
 import Other from './component/Other';
-import Loging from './component/Loging';
-import Protected from './component/Protected';
+
+
 
 function App() {
   return (
